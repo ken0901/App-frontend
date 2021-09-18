@@ -7,5 +7,5 @@ Springboot - Angular - Full-Stack-App
 ## Skills
 
 
-## frontend github address
-* https://github.com/ken0901/App-frontend
+## backend github address
+* https://github.com/ken0901/App-backend
